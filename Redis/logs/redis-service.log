@@ -1,0 +1,3 @@
+[5728] 02 Mar 19:28:49 * Starting redis (host=127.0.0.1 port=6379)
+[5728] 02 Mar 19:28:49 - Starting Redis with command line: redis conf/redis.conf
+[5728] 02 Mar 19:28:49 * Started redis (host=127.0.0.1 port=6379 PID=6716)
